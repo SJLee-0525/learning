@@ -27,3 +27,9 @@ print(number)
 
 # float
 print(type(number))
+
+print(0b10011111)
+print(0o17)
+print(0x1a)
+
+print(3.14e2)

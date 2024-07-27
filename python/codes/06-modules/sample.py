@@ -11,11 +11,11 @@
 # 패키지 사용하기
 from my_package.math import my_math
 
-print(my_math.add(3, 4))
+print(my_math.add(3, 4)) # 7
 
 from my_package.statistics import tools
 
-print(tools.mod(1, 2))
+print(tools.mod(1, 2)) # 1
 
 import math
 

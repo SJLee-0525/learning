@@ -17,6 +17,9 @@ print(f'Debugging {bugs} {counts} {area}')
 
 
 my_str = 'hello'
+new_str = my_str[1:3]
+print(new_str)
+print()
 
 # 인덱싱
 print(my_str[1])  # e
@@ -32,4 +35,4 @@ print(my_str[::-1])  # olleh
 print(len(my_str))  # 5
 
 # TypeError: 'str' object does not support item assignment
-my_str[1] = 'z'
+# my_str[1] = 'z'

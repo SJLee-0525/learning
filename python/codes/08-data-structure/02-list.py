@@ -48,6 +48,8 @@ print(my_list_6) # []
 my_list_7 = [1, 2, 3]
 
 index = my_list_7.index(2)
+# index = my_list_7.index(4) 문자열 index와 같이 없으면 오류 발생
+
 print(index) # 1 : 해당되는 요소들 중 가장 왼쪽의 것의 인덱스를 반환
 
 # count

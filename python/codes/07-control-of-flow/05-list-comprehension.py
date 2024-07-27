@@ -7,7 +7,6 @@ for num in numbers:
 
 print(squared_numbers)
 
-
 # 사용 후
 squared_numbers_2 = [num ** 2 for num in numbers]
 print(squared_numbers_2)
