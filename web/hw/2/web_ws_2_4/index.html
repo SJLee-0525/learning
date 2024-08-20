@@ -15,8 +15,9 @@
       color: #333;
     }
 
-    .big-book-container {
-      align-items: center;
+    .big-container {
+      display: flex;
+      justify-content: center;
     }
 
     .book-container {
@@ -28,7 +29,6 @@
       margin: 10px;
       border-radius: 5px;
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-      display: inline-block;
     }
 
     .book-title {
@@ -54,9 +54,10 @@
       top: 0px;
       background-color: #fff;
       padding: 30px;
-      margin: 0px;
+      margin-bottom: 10px;
       font-size: 20px;
       font-weight: bold;
+      text-align: center;
     }
 
     .top-button {
@@ -67,6 +68,7 @@
       padding: 10px 20px;
       border-radius: 5px;
       border: none;
+      
     }
 
     .top-button a {
@@ -78,29 +80,28 @@
 </head>
 <body style="height: 3000px;">
   <h1>도서 관리 서비스에 오신 것을 환영합니다</h1>
-
   <div class="section-title">베스트 셀러 목록</div>
-  
-  <div class="big-book-container">
+  <div class="big-container">
     <div class="book-container">
       <h2 class="book-title">도서 제목 1</h2>
       <p class="book-author">저자 1</p>
       <p class="book-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque at lacus vel neque ullamcorper tempus.</p>
     </div>
-  
+
     <div class="book-container">
       <h2 class="book-title">도서 제목 2</h2>
       <p class="book-author">저자 2</p>
       <p class="book-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
     </div>
   </div>
- 
 
   <div class="section-title">신간 도서 목록</div>
-  <div class="book-container">
-    <h2 class="book-title">도서 제목 3</h2>
-    <p class="book-author">저자 3</p>
-    <p class="book-description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <div class="big-container">
+    <div class="book-container">
+      <h2 class="book-title">도서 제목 3</h2>
+      <p class="book-author">저자 3</p>
+      <p class="book-description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    </div>
   </div>
 
   <div class="top-button">
