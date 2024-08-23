@@ -1,0 +1,26 @@
+* {
+  font-family: "Yeon Sung", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.frontpage {
+  padding-top: 4rem;
+}
+
+.my-intro,
+.skills,
+.project,
+.contact {
+  height: 300px;
+}
+
+/* 나중에 팀에 따라 아래와 같이 길게 쓰는 경우 있음 */
+/* .main__section__intro */
+
+.skills,
+.contact {
+  background-color: lightgray;
+}
+
+
