@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Noto+Sans+KR:wght@100..900&display=swap" rel="stylesheet">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Nanum+Pen+Script&family=Noto+Sans+KR:wght@100..900&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-lg bg-body-tertiary sticky-top" data-bs-theme="dark">
+    <div class="container-fluid">
+      <div class="d-flex justify-content-center align-content-center">
+        <a class="navbar-brand" href="./01-home.html">
+          <img src="images/logo.png" alt="">
+        </a>
+      </div>     
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link" href="./01-home.html">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="./02-community.html">Community</a>
+          </li>
+          <li type="button" class="nav-item" data-bs-toggle="modal" data-bs-target="#staticBackdrop1">
+            <a class="nav-link" href="#">Login</a>
+          </li>
+        </ul>
+        <!-- <form class="d-flex" role="search">
+          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-light" type="submit">Search</button>
+        </form> -->
+      </div>
+    </div>
+  </nav>
+
+  <header class="mb-3">
+    <!-- Carousel -->
+    <div id="carouselExampleAutoplaying" class="carousel slide g-4" data-bs-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="images/header1.jpg" class="d-block w-100" alt="...">
+          <span class="carousel-caption m-0 d-none d-md-block p-1" style="bottom: 8%;">
+            <h1 id="ffff" style="text-align: start;">Star Wars</h1>
+            <p id="fffff" class="mb-0" style="text-align: start;">오래 전 멀고 먼 은하계에....<br>A long time ago in a galaxy far, far away....</p>
+          </span>
+        </div>
+        <div class="carousel-item">
+          <img src="images/header2.jpg" class="d-block w-100" alt="...">
+          <div class="carousel-caption d-none d-md-block p-1" style="bottom: 80%;">
+            <p id="fffff" class="mb-0" style="text-align: end;">큰 힘에는 큰 책임이 따른다.</p>
+            <h1 id="ffff" style="text-align: end;">Spider Man</h1>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="images/header3.jpg" class="d-block w-100" alt="...">
+          <div class="carousel-caption d-none d-md-block p-1" style="bottom: 42%;">
+            <h1 id="ffff">Joker</h1>
+            <p id="fffff" class="mb-0">Put on a happy face<br>행복한 표정을 지으렴.</p>
+          </div>
+        </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+  </header>
+  
+  <section class="container justify-content-center">
+    <div class="row m-4">
+      <div class="col-12">
+        <h1 class="mb-0" style="text-align: center;">BOX OFFICE</h1>
+      </div>
+    </div>
+
+    <!-- Card -->
+    <div class="row g-4">
+      <div class="col-12 col-md-6 col-lg-4">
+        <div>
+          <div class="card border-light">
+            <img src="images/movie1.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">쇼생크 탈출</h5>
+              <p class="card-text">희망은 너를 자유롭게 하리라!</p>
+            </div>
+            <button type="button" class="btn btn-outline-success m-2" data-bs-toggle="modal" data-bs-target="#exampleModal">예매하기</button>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4">
+        <div>
+          <div class="card border-light">
+            <img src="images/movie2.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">쉰들러 리스트</h5>
+              <p class="card-text">지금 우리가 꼭 보아야 할 영화</p>
+            </div>
+            <button type="button" class="btn btn-outline-success m-2" data-bs-toggle="modal" data-bs-target="#exampleModal">예매하기</button>
+          </div>
+        </div> 
+      </div>
+      <div class="col-12 col-md-6 col-lg-4">
+        <div>
+          <div class="card border-light">
+            <img src="images/movie3.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">다크나이트</h5>
+              <p class="card-text">마침내, 최강의 적을 만나다.</p>
+            </div>
+            <button type="button" class="btn btn-outline-success m-2" data-bs-toggle="modal" data-bs-target="#exampleModal">예매하기</button>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4">
+        <div>
+          <div class="card border-light">
+            <img src="images/movie4.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">파이트 클럽</h5>
+              <p class="card-text">당신이 알고 있는 모든 것은 허구다!</p>
+            </div>
+            <button type="button" class="btn btn-outline-success m-2" data-bs-toggle="modal" data-bs-target="#exampleModal">예매하기</button>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4">
+        <div>
+          <div class="card border-light">
+            <img src="images/movie5.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">대부</h5>
+              <p class="card-text">내가 그에게 거절할 수 없는 제안을 하겠다.</p>
+            </div>
+            <button type="button" class="btn btn-outline-success m-2" data-bs-toggle="modal" data-bs-target="#exampleModal">예매하기</button>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4">
+        <div>
+          <div class="card border-light">
+            <img src="images/movie6.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">반지의 제왕</h5>
+              <p class="card-text">절대 반지가 다시 깨어난다</p>
+            </div>
+            <button type="button" class="btn btn-outline-success m-2" data-bs-toggle="modal" data-bs-target="#exampleModal">예매하기</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+
+
+
+
+  <!-- Modal -->
+  <form class="modal fade" id="staticBackdrop1" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content bg-color-primary">
+        <div class="modal-header">
+          <h1 class="modal-title fs-5" id="staticBackdropLabel">Login</h1>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="input-group mb-3">
+            <input type="email" class="form-control" placeholder="ID" aria-label="Recipient's username" aria-describedby="basic-addon2">
+            <span class="input-group-text" id="basic-addon2">@cinema.com</span>
+          </div>
+          <div class="input-group">
+            <input type="password" class="form-control" placeholder="Password" aria-label="Recipient's username" aria-describedby="basic-addon2">
+          </div>
+        </div>
+        <div class="form-check d-flex justify-content-between mx-3 mb-3">
+          <div>
+            <input type="checkbox" class="form-check-input" id="exampleCheck1">
+            <label class="form-check-label" for="exampleCheck1">Remember me</label>
+          </div>
+          <a href="#">Forgot Password</a>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          <button type="button" class="btn btn-success">Login</button>
+        </div>
+      </div>
+    </div>
+  </form>
+
+  <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h1 class="modal-title fs-5" id="exampleModalLabel">예매 불가</h1>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <p class="mb-0">죄송합니다. 현재 예매 불가능한 상품입니다.</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-danger">메롱</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+</body>
+
+</html>

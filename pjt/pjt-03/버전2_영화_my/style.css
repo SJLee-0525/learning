@@ -1,0 +1,59 @@
+/* * {
+  background-color: black;
+} */
+
+* {
+  font-family: "Noto Sans KR", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#ffff {
+  font-family: "Nanum Pen Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: xx-large;
+} 
+
+#fffff{
+  font-family: "Nanum Pen Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: x-large;
+}
+
+nav img {
+  height: 50px;
+}
+
+section img {
+  height: 600px;
+}
+
+aside button {
+  text-align: center;
+}
+
+section small {
+  color: red;
+  font-weight: bold;
+}
+
+/* header {
+  padding: 50px 0px 0px;
+} */
+
+/* style="background-color: rgba(0, 0, 0, 0.3); */
+
+.page-link {
+  color: #000000;
+  
+}
+
+.page-item.active .page-link {
+color: #fff;
+background-color: #2d353b;
+border-color: #2d353b;
+}
+
