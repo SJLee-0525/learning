@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <h1 class='mx-2'>메인 페이지</h1>
+  <div class="row row-cols-1 row-cols-md-2 row-cols-xl-4 g-4 m-auto">
+    {% if movies %}
+      {% for movie in movies %}
+        <div class="col">
+          <div class="card">
+            {% if movie.image %}
+              <img src="{{ movie.image.url }}" class="card-img-top" alt="poster">
+            {% endif %}
+            <div class="card-body">
+              <h5 class="card-title">{{ movie.title }}</h5>
+              <p class="card-text">{{ movie.description }}</p>
+            </div>
+            <div class="mb-2 ms-2">
+              <a href="{% url "movies:detail" movie.pk %}" class="btn btn-primary">DETAIL</a>
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    {% else %}
+      <li>등록된 영화가 없습니다.</li>
+    {% endif %}
+  </div>
+{% endblock content %}
