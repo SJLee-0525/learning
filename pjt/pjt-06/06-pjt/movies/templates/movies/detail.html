@@ -1,0 +1,76 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <div class="d-flex mx-auto mt-3 mb-3 p-0" style="width: 50rem;">
+    <a class="position-absolute btn btn-dark ms-0 my-auto" href="{% url "movies:index" %}" role="button" value="BACK">◁</a>
+    <h1 class='mx-auto my-0'>영화 상세 페이지</h1>
+  </div>
+    
+  <div class="d-flex">
+    <div class="card mx-auto" style="width: 50rem;">
+      {% if movie.image %}
+        <img src="{{ movie.image.url }}" alt="poster">  
+      {% endif %}
+      <div class="card-body">
+        <h5 class="card-title">{{ movie.title }}</h5>
+        <p class="card-text">{{ movie.description }}</p>
+        <p class="text-body fw-bold">🧑 <a href="{% url "accounts:profile" movie.user.username %}">{{ movie.user.username }}</a></p>
+        <p class="card-text"><small class="text-body-secondary">{{ movie.created_at }}</small></p>
+      </div>
+      <div class='d-flex m-2'>
+        <a class="btn btn-warning" href="{% url "movies:update" movie.pk %}" role="button" >UPDATE</a>
+        <form action="{% url "movies:delete" movie.pk %}" method='POST' class='mx-2'>
+          {% csrf_token %}
+          <input class="btn btn-danger" type="submit" value="DELETE">
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <div  class="card mx-auto my-4" style="width: 50rem;">
+    <div class="card-header">
+      댓글 목록
+    </div>
+    <div class="card-body">
+      <ul class="list-group list-group-flush">
+        <div class='container'>
+          {% for comment in comments %}
+            <div class='row'>
+              <div class='col-10'>
+                <div class="card my-2">
+                  <div class="card-body">
+                    <h5>🧑
+                      <a href="{% url "accounts:profile" comment.user.username %}">
+                        {{ comment.user.username }}
+                      </a>
+                    </h5> 
+                  <p class='mb-0'>{{ comment.content }}</p></li>
+                  </div>
+                </div>
+              </div>
+              {% if request.user == comment.user %}
+              <div class='col-2'>
+                <form action="{% url "movies:comments_delete" movie.pk comment.pk %}" method='POST'>
+                  {% csrf_token %}
+                  <button class="btn btn-danger my-2">DELETE</button>
+                </form>
+              </div>
+              {% endif %}
+            </div>
+          {% empty %}
+            <li class="list-group-item">댓글이 없습니다</li>
+          {% endfor %}
+        </div>
+      </ul>
+    </div>
+    <hr>
+    <div class='mx-auto mb-3'>
+      <form action="{% url "movies:comments_create" movie.pk %}" method='POST'>
+        {% csrf_token %}
+        {{ comment_form }}
+        <input type="submit" class="btn btn-success mt-3" value='댓글 작성'>
+      </form>
+    </div>
+  </div>
+
+{% endblock content %}

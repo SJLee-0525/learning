@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+  <div class="mt-5 d-flex justify-content-center">
+    <div class="card text-center" style="width: 30rem;">
+      <div class="card-header">
+        <h3 class='m-2'>회원 가입 페이지</h1>
+      </div>
+      <div class="card-body d-flex justify-content-center">
+        <form method="POST">
+          {% csrf_token %}
+          {{ form.as_p }}
+          <div class='d-flex justify-content-between'>
+            <div>
+              <a class="position-absolute btn btn-dark ms-0 my-auto" href="{% url "movies:index" %}" role="button" value="BACK">◁</a>
+            </div>
+            <input class="btn btn-success" type="submit" value="SIGNUP">
+            <div></div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+{% endblock content %}

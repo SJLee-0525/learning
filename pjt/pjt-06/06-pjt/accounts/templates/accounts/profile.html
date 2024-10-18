@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block content %}
+
+  <div class="mt-5 d-flex justify-content-center">
+    <div class="card text-center" style="width: 40rem;">
+      <div class="card-header">
+        <h3 class='my-3'>{{ person.username }}님의 프로필</h3>
+      </div>
+      <div class="card-body justify-content-center">
+        <div>
+          <div>
+            <img src="{% static "noprofile.png" %}" class="card-img-top h-75" alt="poster" style="width: 380px;">
+          </div>
+          <p class='fw-bold mt-3'>팔로잉: {{ person.followings.count }} | 팔로워: {{ person.followers.count }}</p>
+          <div>
+            {% if request.user != person %}
+              <div>
+                <form action="{% url 'accounts:follow' person.pk %}" method="POST">
+                  {% csrf_token %}
+                  {% if request.user in person.followers.all %}
+                    <input type="submit" value="Unfollow" class="btn btn-danger" >
+                  {% else %}
+                    <input type="submit" value="Follow" class="btn btn-primary" >
+                  {% endif %}
+                </form>
+              </div>
+            {% endif %}
+          </div>
+        </div>
+        <hr>
+        <h3>작성한 영화 목록</h3>
+        <ul class="list-group list-group-flush">
+          {% for movie in writemovies %}
+            <li class="list-group-item">
+              <div class="justify-content-end">
+                <a class="fw-bold" href="{% url "movies:detail" movie.pk %}">{{ movie.title }}</a>
+              </div>
+            </li>
+          {% empty %}
+            <li>작성한 영화가 없습니다</li>
+          {% endfor %}
+        </ul>
+
+        <hr>
+        <h3>좋아요 누른 영화 목록</h3>
+        <ul class="list-group list-group-flush">
+          {% for movie in likemovies %}
+            <li class="list-group-item">
+              <a class="fw-bold" href="{% url "movies:detail" movie.pk %}">{{ movie.title }}</a>
+            </li>
+          {% empty %}
+            <li>좋아요한 영화가 없습니다</li>
+          {% endfor %}
+        </ul>
+      </div>
+      </div>
+    </div>
+  </div>
+{% endblock content %}
