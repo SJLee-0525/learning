@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+  <p>Lorem, ipsum dolor.</p>
+
+  <script>
+    const pTag = document.querySelector('p')
+
+    console.log(pTag.style) // CSSStyleDeclaration (키:밸류 형태로 많은 정보 출력)
+    pTag.style.color = 'crimson' // <p>Lorem, ipsum dolor.</p> 색상이 바뀜
+    pTag.style.fontSize = '3rem' // p 태그 내의 글자들의 크기가 커짐
+    pTag.style.border = '2px solid black' // 테두리 생김
+  </script>
+</body>
+
+</html>

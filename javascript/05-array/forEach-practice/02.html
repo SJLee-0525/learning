@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+  <script>
+    // forEach를 사용하여 다음 작업을 수행하세요:
+    // 1. 짝수는 2배로 증가
+    // 2. 홀수는 3을 더하기
+    // 결과를 새 배열에 저장 (map도 사용 가능)
+    const numbers = [1, 2, 3, 4, 5]
+
+    // const -> 재선언 재할당 불가능: 
+    // 참조 자료형에 값을 추가하는 것은 주소가 바뀌는 재할당의 원리가 아님
+    const newArr = []
+
+    numbers.forEach((number) => {
+      if (number % 2 === 0) {
+        newArr.push(number * 2)
+      } else {
+        newArr.push(number + 3)
+      }
+    })
+
+    console.log(newArr) // [4, 4, 6, 8, 8]
+
+
+
+
+    // 결과
+    // [4, 4, 6, 8, 8]
+  </script>
+</body>
+
+</html>
