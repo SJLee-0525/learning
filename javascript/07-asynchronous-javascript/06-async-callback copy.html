@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+  <script>
+    // 비동기 콜백 방식
+    work1(function() {
+      // 첫번째 작업 ...
+      work2(result1, function (result2) {
+        // 두번째 작업 ...
+        work3(result2, function (result3) {
+          console.log('최종 결과 : ' + result3)
+        })
+      })
+    })
+
+    // promise 방식
+    work()
+      .then(((result1) => {
+        // work2
+        return result2
+      }))
+      .then((result2) => {
+        // work3
+        return result3
+      })
+      .catch((error) => {
+        // error handling
+      })
+  </script>
+</body>
+
+</html>
