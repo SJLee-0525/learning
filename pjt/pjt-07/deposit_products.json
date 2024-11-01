@@ -1,0 +1,5002 @@
+[
+    {
+        "fin_prdt_cd": "DP001",
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "대구은행 유니온 정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP002",
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "대구은행 유니온 정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP003",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 유니온 정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP004",
+        "kor_co_nm": "국민은행",
+        "fin_prdt_nm": "국민은행 외화예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP005",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP006",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 일반적금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP007",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 자동차금융상품",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP008",
+        "kor_co_nm": "씨티은행",
+        "fin_prdt_nm": "씨티은행 특판정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP009",
+        "kor_co_nm": "씨티은행",
+        "fin_prdt_nm": "씨티은행 주택청약종합저축",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP010",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 유니온 정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP011",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 특판적금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP012",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP013",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 특판정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP014",
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "광주은행 유니온 정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP015",
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "광주은행 정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP016",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 외화예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP017",
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "우리은행 외화예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP018",
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "광주은행 주택청약종합저축",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP019",
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "대구은행 서민정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP020",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 청년정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP021",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 우대정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP022",
+        "kor_co_nm": "전북은행",
+        "fin_prdt_nm": "전북은행 자동차금융상품",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP023",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 청년정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP024",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 청년정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP025",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 유니온 정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP026",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 일반적금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP027",
+        "kor_co_nm": "전북은행",
+        "fin_prdt_nm": "전북은행 일반적금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP028",
+        "kor_co_nm": "NH농협은행",
+        "fin_prdt_nm": "NH농협은행 특판적금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP029",
+        "kor_co_nm": "전북은행",
+        "fin_prdt_nm": "전북은행 우대정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP030",
+        "kor_co_nm": "하나은행",
+        "fin_prdt_nm": "하나은행 서민정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP031",
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "우리은행 특판정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP032",
+        "kor_co_nm": "국민은행",
+        "fin_prdt_nm": "국민은행 주택청약종합저축",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP033",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 외화예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP034",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 특판정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP035",
+        "kor_co_nm": "하나은행",
+        "fin_prdt_nm": "하나은행 서민정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP036",
+        "kor_co_nm": "토스뱅크",
+        "fin_prdt_nm": "토스뱅크 정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP037",
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "우리은행 특판적금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP038",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 주택청약종합저축",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP039",
+        "kor_co_nm": "국민은행",
+        "fin_prdt_nm": "국민은행 우대정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP040",
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "대구은행 주택청약종합저축",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP041",
+        "kor_co_nm": "토스뱅크",
+        "fin_prdt_nm": "토스뱅크 정기적금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP042",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 유니온 정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP043",
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "광주은행 특판적금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP044",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 서민정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP045",
+        "kor_co_nm": "국민은행",
+        "fin_prdt_nm": "국민은행 자동차금융상품",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP046",
+        "kor_co_nm": "씨티은행",
+        "fin_prdt_nm": "씨티은행 우대정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP047",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 특판적금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP048",
+        "kor_co_nm": "씨티은행",
+        "fin_prdt_nm": "씨티은행 특판정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP049",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 유니온 정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP050",
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "광주은행 정기적금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP051",
+        "kor_co_nm": "NH농협은행",
+        "fin_prdt_nm": "NH농협은행 우대정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP052",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP053",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 우대정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP054",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 정기적금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP055",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 유니온 정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP056",
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "광주은행 정기적금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP057",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 특판적금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP058",
+        "kor_co_nm": "씨티은행",
+        "fin_prdt_nm": "씨티은행 외화예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP059",
+        "kor_co_nm": "씨티은행",
+        "fin_prdt_nm": "씨티은행 주택청약종합저축",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP060",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 서민정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP061",
+        "kor_co_nm": "씨티은행",
+        "fin_prdt_nm": "씨티은행 정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP062",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 일반적금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP063",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 일반적금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP064",
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "광주은행 서민정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP065",
+        "kor_co_nm": "하나은행",
+        "fin_prdt_nm": "하나은행 자동차금융상품",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP066",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 외화예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP067",
+        "kor_co_nm": "국민은행",
+        "fin_prdt_nm": "국민은행 일반적금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP068",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 우대정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP069",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 정기적금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP070",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 우대정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP071",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 특판적금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP072",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 일반적금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP073",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 특판적금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP074",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 서민정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP075",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 특판정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP076",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP077",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 특판정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP078",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 특판정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP079",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 청년정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP080",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP081",
+        "kor_co_nm": "하나은행",
+        "fin_prdt_nm": "하나은행 특판정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP082",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 유니온 정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP083",
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "대구은행 서민정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP084",
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "광주은행 자동차금융상품",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP085",
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "광주은행 일반적금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP086",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP087",
+        "kor_co_nm": "NH농협은행",
+        "fin_prdt_nm": "NH농협은행 서민정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP088",
+        "kor_co_nm": "토스뱅크",
+        "fin_prdt_nm": "토스뱅크 우대정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP089",
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "광주은행 우대정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP090",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 특판정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP091",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 서민정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP092",
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "대구은행 유니온 정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP093",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 정기적금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP094",
+        "kor_co_nm": "토스뱅크",
+        "fin_prdt_nm": "토스뱅크 서민정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP095",
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "대구은행 특판정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP096",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 특판적금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP097",
+        "kor_co_nm": "NH농협은행",
+        "fin_prdt_nm": "NH농협은행 서민정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP098",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 주택청약종합저축",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP099",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 특판정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP100",
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "광주은행 정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP101",
+        "kor_co_nm": "전북은행",
+        "fin_prdt_nm": "전북은행 일반적금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP102",
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "광주은행 외화예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP103",
+        "kor_co_nm": "씨티은행",
+        "fin_prdt_nm": "씨티은행 주택청약종합저축",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP104",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 특판적금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP105",
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "우리은행 주택청약종합저축",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP106",
+        "kor_co_nm": "전북은행",
+        "fin_prdt_nm": "전북은행 특판적금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP107",
+        "kor_co_nm": "NH농협은행",
+        "fin_prdt_nm": "NH농협은행 우대정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP108",
+        "kor_co_nm": "씨티은행",
+        "fin_prdt_nm": "씨티은행 특판정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP109",
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "우리은행 자동차금융상품",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP110",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 청년정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP111",
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "대구은행 특판정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP112",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 유니온 정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP113",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 특판정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP114",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 자동차금융상품",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP115",
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "우리은행 특판정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP116",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 특판적금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP117",
+        "kor_co_nm": "전북은행",
+        "fin_prdt_nm": "전북은행 서민정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP118",
+        "kor_co_nm": "전북은행",
+        "fin_prdt_nm": "전북은행 특판정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP119",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP120",
+        "kor_co_nm": "하나은행",
+        "fin_prdt_nm": "하나은행 주택청약종합저축",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP121",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 정기적금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP122",
+        "kor_co_nm": "전북은행",
+        "fin_prdt_nm": "전북은행 특판적금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP123",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 정기적금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP124",
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "우리은행 특판정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP125",
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "대구은행 주택청약종합저축",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP126",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 청년정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP127",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 일반적금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP128",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 외화예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP129",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 외화예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP130",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 청년정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP131",
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "우리은행 특판정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP132",
+        "kor_co_nm": "씨티은행",
+        "fin_prdt_nm": "씨티은행 우대정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP133",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 외화예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP134",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 우대정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP135",
+        "kor_co_nm": "토스뱅크",
+        "fin_prdt_nm": "토스뱅크 특판정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP136",
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "우리은행 청년정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP137",
+        "kor_co_nm": "국민은행",
+        "fin_prdt_nm": "국민은행 자동차금융상품",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP138",
+        "kor_co_nm": "하나은행",
+        "fin_prdt_nm": "하나은행 특판적금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP139",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 주택청약종합저축",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP140",
+        "kor_co_nm": "국민은행",
+        "fin_prdt_nm": "국민은행 청년정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP141",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 특판적금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP142",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 외화예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP143",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 주택청약종합저축",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP144",
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "대구은행 서민정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP145",
+        "kor_co_nm": "토스뱅크",
+        "fin_prdt_nm": "토스뱅크 일반적금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP146",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 주택청약종합저축",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP147",
+        "kor_co_nm": "씨티은행",
+        "fin_prdt_nm": "씨티은행 청년정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP148",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 우대정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP149",
+        "kor_co_nm": "씨티은행",
+        "fin_prdt_nm": "씨티은행 자동차금융상품",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP150",
+        "kor_co_nm": "NH농협은행",
+        "fin_prdt_nm": "NH농협은행 유니온 정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP151",
+        "kor_co_nm": "NH농협은행",
+        "fin_prdt_nm": "NH농협은행 외화예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP152",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 특판적금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP153",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 자동차금융상품",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP154",
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "우리은행 우대정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP155",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 일반적금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP156",
+        "kor_co_nm": "NH농협은행",
+        "fin_prdt_nm": "NH농협은행 특판정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP157",
+        "kor_co_nm": "하나은행",
+        "fin_prdt_nm": "하나은행 유니온 정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP158",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 우대정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP159",
+        "kor_co_nm": "씨티은행",
+        "fin_prdt_nm": "씨티은행 정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP160",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 유니온 정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP161",
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "광주은행 청년정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP162",
+        "kor_co_nm": "씨티은행",
+        "fin_prdt_nm": "씨티은행 우대정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP163",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 우대정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP164",
+        "kor_co_nm": "국민은행",
+        "fin_prdt_nm": "국민은행 유니온 정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP165",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 서민정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP166",
+        "kor_co_nm": "전북은행",
+        "fin_prdt_nm": "전북은행 유니온 정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP167",
+        "kor_co_nm": "NH농협은행",
+        "fin_prdt_nm": "NH농협은행 특판정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP168",
+        "kor_co_nm": "토스뱅크",
+        "fin_prdt_nm": "토스뱅크 주택청약종합저축",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP169",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 정기적금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP170",
+        "kor_co_nm": "NH농협은행",
+        "fin_prdt_nm": "NH농협은행 특판정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP171",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 자동차금융상품",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP172",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 정기적금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP173",
+        "kor_co_nm": "전북은행",
+        "fin_prdt_nm": "전북은행 자동차금융상품",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP174",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 특판정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP175",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 정기적금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP176",
+        "kor_co_nm": "하나은행",
+        "fin_prdt_nm": "하나은행 청년정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP177",
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "우리은행 정기적금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP178",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 우대정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP179",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 특판적금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP180",
+        "kor_co_nm": "토스뱅크",
+        "fin_prdt_nm": "토스뱅크 특판적금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP181",
+        "kor_co_nm": "씨티은행",
+        "fin_prdt_nm": "씨티은행 특판적금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP182",
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "우리은행 주택청약종합저축",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP183",
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "우리은행 정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP184",
+        "kor_co_nm": "하나은행",
+        "fin_prdt_nm": "하나은행 외화예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP185",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 정기적금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP186",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 외화예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP187",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP188",
+        "kor_co_nm": "씨티은행",
+        "fin_prdt_nm": "씨티은행 유니온 정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP189",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 유니온 정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP190",
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "우리은행 특판적금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP191",
+        "kor_co_nm": "국민은행",
+        "fin_prdt_nm": "국민은행 특판적금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP192",
+        "kor_co_nm": "씨티은행",
+        "fin_prdt_nm": "씨티은행 외화예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP193",
+        "kor_co_nm": "토스뱅크",
+        "fin_prdt_nm": "토스뱅크 자동차금융상품",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP194",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 특판정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP195",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 유니온 정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP196",
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "대구은행 정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP197",
+        "kor_co_nm": "하나은행",
+        "fin_prdt_nm": "하나은행 특판정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP198",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 외화예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP199",
+        "kor_co_nm": "토스뱅크",
+        "fin_prdt_nm": "토스뱅크 특판정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP200",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 청년정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP201",
+        "kor_co_nm": "씨티은행",
+        "fin_prdt_nm": "씨티은행 서민정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP202",
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "광주은행 특판정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP203",
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "대구은행 자동차금융상품",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP204",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 주택청약종합저축",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP205",
+        "kor_co_nm": "하나은행",
+        "fin_prdt_nm": "하나은행 서민정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP206",
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "대구은행 특판정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP207",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 특판정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP208",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 외화예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP209",
+        "kor_co_nm": "NH농협은행",
+        "fin_prdt_nm": "NH농협은행 일반적금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP210",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 외화예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP211",
+        "kor_co_nm": "하나은행",
+        "fin_prdt_nm": "하나은행 서민정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP212",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 정기적금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP213",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 외화예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP214",
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "광주은행 특판적금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP215",
+        "kor_co_nm": "NH농협은행",
+        "fin_prdt_nm": "NH농협은행 특판정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP216",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 청년정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP217",
+        "kor_co_nm": "전북은행",
+        "fin_prdt_nm": "전북은행 우대정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP218",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 유니온 정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP219",
+        "kor_co_nm": "하나은행",
+        "fin_prdt_nm": "하나은행 특판정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP220",
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "광주은행 자동차금융상품",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP221",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 자동차금융상품",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP222",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 우대정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP223",
+        "kor_co_nm": "NH농협은행",
+        "fin_prdt_nm": "NH농협은행 외화예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP224",
+        "kor_co_nm": "씨티은행",
+        "fin_prdt_nm": "씨티은행 외화예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP225",
+        "kor_co_nm": "NH농협은행",
+        "fin_prdt_nm": "NH농협은행 자동차금융상품",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP226",
+        "kor_co_nm": "토스뱅크",
+        "fin_prdt_nm": "토스뱅크 자동차금융상품",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP227",
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "광주은행 외화예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP228",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 청년정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP229",
+        "kor_co_nm": "전북은행",
+        "fin_prdt_nm": "전북은행 서민정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP230",
+        "kor_co_nm": "하나은행",
+        "fin_prdt_nm": "하나은행 특판적금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP231",
+        "kor_co_nm": "전북은행",
+        "fin_prdt_nm": "전북은행 주택청약종합저축",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP232",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 서민정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP233",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 서민정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP234",
+        "kor_co_nm": "NH농협은행",
+        "fin_prdt_nm": "NH농협은행 유니온 정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP235",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 특판정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP236",
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "대구은행 정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP237",
+        "kor_co_nm": "토스뱅크",
+        "fin_prdt_nm": "토스뱅크 유니온 정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP238",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 외화예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP239",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 자동차금융상품",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP240",
+        "kor_co_nm": "전북은행",
+        "fin_prdt_nm": "전북은행 특판적금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP241",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP242",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 우대정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP243",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 주택청약종합저축",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP244",
+        "kor_co_nm": "NH농협은행",
+        "fin_prdt_nm": "NH농협은행 정기적금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP245",
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "광주은행 유니온 정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP246",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 주택청약종합저축",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP247",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 자동차금융상품",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP248",
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "광주은행 정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP249",
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "광주은행 유니온 정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP250",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 청년정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP251",
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "대구은행 자동차금융상품",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP252",
+        "kor_co_nm": "하나은행",
+        "fin_prdt_nm": "하나은행 일반적금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP253",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 우대정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP254",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 자동차금융상품",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP255",
+        "kor_co_nm": "하나은행",
+        "fin_prdt_nm": "하나은행 특판적금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP256",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 정기적금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP257",
+        "kor_co_nm": "NH농협은행",
+        "fin_prdt_nm": "NH농협은행 유니온 정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP258",
+        "kor_co_nm": "씨티은행",
+        "fin_prdt_nm": "씨티은행 외화예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP259",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 외화예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP260",
+        "kor_co_nm": "토스뱅크",
+        "fin_prdt_nm": "토스뱅크 청년정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP261",
+        "kor_co_nm": "하나은행",
+        "fin_prdt_nm": "하나은행 특판정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP262",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 정기적금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP263",
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "대구은행 유니온 정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP264",
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "대구은행 정기적금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP265",
+        "kor_co_nm": "국민은행",
+        "fin_prdt_nm": "국민은행 서민정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP266",
+        "kor_co_nm": "국민은행",
+        "fin_prdt_nm": "국민은행 자동차금융상품",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP267",
+        "kor_co_nm": "국민은행",
+        "fin_prdt_nm": "국민은행 주택청약종합저축",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP268",
+        "kor_co_nm": "NH농협은행",
+        "fin_prdt_nm": "NH농협은행 청년정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP269",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 외화예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP270",
+        "kor_co_nm": "하나은행",
+        "fin_prdt_nm": "하나은행 정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP271",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 특판적금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP272",
+        "kor_co_nm": "전북은행",
+        "fin_prdt_nm": "전북은행 유니온 정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP273",
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "광주은행 정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP274",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 자동차금융상품",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP275",
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "우리은행 서민정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP276",
+        "kor_co_nm": "전북은행",
+        "fin_prdt_nm": "전북은행 정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP277",
+        "kor_co_nm": "토스뱅크",
+        "fin_prdt_nm": "토스뱅크 주택청약종합저축",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP278",
+        "kor_co_nm": "하나은행",
+        "fin_prdt_nm": "하나은행 정기적금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP279",
+        "kor_co_nm": "씨티은행",
+        "fin_prdt_nm": "씨티은행 특판적금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP280",
+        "kor_co_nm": "씨티은행",
+        "fin_prdt_nm": "씨티은행 유니온 정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP281",
+        "kor_co_nm": "하나은행",
+        "fin_prdt_nm": "하나은행 정기적금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP282",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 특판적금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP283",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 서민정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP284",
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "대구은행 우대정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP285",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 자동차금융상품",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP286",
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "우리은행 외화예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP287",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 일반적금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP288",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 유니온 정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP289",
+        "kor_co_nm": "씨티은행",
+        "fin_prdt_nm": "씨티은행 자동차금융상품",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP290",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 주택청약종합저축",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP291",
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "대구은행 일반적금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP292",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 우대정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP293",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 외화예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP294",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 특판적금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP295",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 우대정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP296",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 자동차금융상품",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP297",
+        "kor_co_nm": "전북은행",
+        "fin_prdt_nm": "전북은행 일반적금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP298",
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "광주은행 정기적금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP299",
+        "kor_co_nm": "NH농협은행",
+        "fin_prdt_nm": "NH농협은행 청년정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP300",
+        "kor_co_nm": "하나은행",
+        "fin_prdt_nm": "하나은행 특판정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP301",
+        "kor_co_nm": "토스뱅크",
+        "fin_prdt_nm": "토스뱅크 주택청약종합저축",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP302",
+        "kor_co_nm": "NH농협은행",
+        "fin_prdt_nm": "NH농협은행 정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP303",
+        "kor_co_nm": "씨티은행",
+        "fin_prdt_nm": "씨티은행 서민정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP304",
+        "kor_co_nm": "하나은행",
+        "fin_prdt_nm": "하나은행 외화예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP305",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 자동차금융상품",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP306",
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "대구은행 일반적금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP307",
+        "kor_co_nm": "하나은행",
+        "fin_prdt_nm": "하나은행 서민정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP308",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 우대정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP309",
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "광주은행 특판정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP310",
+        "kor_co_nm": "NH농협은행",
+        "fin_prdt_nm": "NH농협은행 정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP311",
+        "kor_co_nm": "전북은행",
+        "fin_prdt_nm": "전북은행 정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP312",
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "광주은행 정기적금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP313",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 특판정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP314",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 주택청약종합저축",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP315",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 특판정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP316",
+        "kor_co_nm": "토스뱅크",
+        "fin_prdt_nm": "토스뱅크 청년정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP317",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 정기적금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP318",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 외화예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP319",
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "우리은행 청년정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP320",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 청년정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP321",
+        "kor_co_nm": "NH농협은행",
+        "fin_prdt_nm": "NH농협은행 정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP322",
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "대구은행 주택청약종합저축",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP323",
+        "kor_co_nm": "전북은행",
+        "fin_prdt_nm": "전북은행 일반적금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP324",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 청년정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP325",
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "우리은행 유니온 정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP326",
+        "kor_co_nm": "국민은행",
+        "fin_prdt_nm": "국민은행 유니온 정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP327",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 주택청약종합저축",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP328",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 특판정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP329",
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "우리은행 특판적금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP330",
+        "kor_co_nm": "씨티은행",
+        "fin_prdt_nm": "씨티은행 주택청약종합저축",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP331",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 우대정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP332",
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "대구은행 서민정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP333",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 주택청약종합저축",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP334",
+        "kor_co_nm": "전북은행",
+        "fin_prdt_nm": "전북은행 정기적금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP335",
+        "kor_co_nm": "토스뱅크",
+        "fin_prdt_nm": "토스뱅크 일반적금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP336",
+        "kor_co_nm": "국민은행",
+        "fin_prdt_nm": "국민은행 주택청약종합저축",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP337",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 주택청약종합저축",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP338",
+        "kor_co_nm": "국민은행",
+        "fin_prdt_nm": "국민은행 주택청약종합저축",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP339",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 외화예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP340",
+        "kor_co_nm": "토스뱅크",
+        "fin_prdt_nm": "토스뱅크 우대정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP341",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 특판적금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP342",
+        "kor_co_nm": "국민은행",
+        "fin_prdt_nm": "국민은행 외화예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP343",
+        "kor_co_nm": "NH농협은행",
+        "fin_prdt_nm": "NH농협은행 자동차금융상품",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP344",
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "우리은행 특판정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP345",
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "대구은행 유니온 정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP346",
+        "kor_co_nm": "씨티은행",
+        "fin_prdt_nm": "씨티은행 청년정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP347",
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "우리은행 우대정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP348",
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "우리은행 정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP349",
+        "kor_co_nm": "전북은행",
+        "fin_prdt_nm": "전북은행 특판정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP350",
+        "kor_co_nm": "하나은행",
+        "fin_prdt_nm": "하나은행 정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP351",
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "대구은행 정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP352",
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "광주은행 특판적금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP353",
+        "kor_co_nm": "토스뱅크",
+        "fin_prdt_nm": "토스뱅크 외화예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP354",
+        "kor_co_nm": "NH농협은행",
+        "fin_prdt_nm": "NH농협은행 유니온 정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP355",
+        "kor_co_nm": "NH농협은행",
+        "fin_prdt_nm": "NH농협은행 자동차금융상품",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP356",
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "대구은행 일반적금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP357",
+        "kor_co_nm": "토스뱅크",
+        "fin_prdt_nm": "토스뱅크 특판정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP358",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP359",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 특판정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP360",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 외화예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP361",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 청년정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP362",
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "대구은행 정기적금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP363",
+        "kor_co_nm": "NH농협은행",
+        "fin_prdt_nm": "NH농협은행 정기적금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP364",
+        "kor_co_nm": "전북은행",
+        "fin_prdt_nm": "전북은행 특판적금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP365",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 외화예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP366",
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "대구은행 서민정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP367",
+        "kor_co_nm": "씨티은행",
+        "fin_prdt_nm": "씨티은행 외화예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP368",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 특판정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP369",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 주택청약종합저축",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP370",
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "대구은행 유니온 정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP371",
+        "kor_co_nm": "하나은행",
+        "fin_prdt_nm": "하나은행 정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP372",
+        "kor_co_nm": "씨티은행",
+        "fin_prdt_nm": "씨티은행 특판적금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP373",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 정기적금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP374",
+        "kor_co_nm": "토스뱅크",
+        "fin_prdt_nm": "토스뱅크 우대정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP375",
+        "kor_co_nm": "NH농협은행",
+        "fin_prdt_nm": "NH농협은행 특판정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP376",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 우대정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP377",
+        "kor_co_nm": "국민은행",
+        "fin_prdt_nm": "국민은행 외화예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP378",
+        "kor_co_nm": "국민은행",
+        "fin_prdt_nm": "국민은행 정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP379",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 일반적금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP380",
+        "kor_co_nm": "전북은행",
+        "fin_prdt_nm": "전북은행 정기적금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP381",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 특판정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP382",
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "광주은행 외화예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP383",
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "대구은행 외화예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP384",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP385",
+        "kor_co_nm": "토스뱅크",
+        "fin_prdt_nm": "토스뱅크 서민정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP386",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 서민정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP387",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 특판정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP388",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 서민정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP389",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 청년정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP390",
+        "kor_co_nm": "토스뱅크",
+        "fin_prdt_nm": "토스뱅크 청년정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP391",
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "광주은행 외화예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP392",
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "광주은행 특판정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP393",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 유니온 정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP394",
+        "kor_co_nm": "하나은행",
+        "fin_prdt_nm": "하나은행 우대정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP395",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 청년정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP396",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 정기적금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP397",
+        "kor_co_nm": "씨티은행",
+        "fin_prdt_nm": "씨티은행 특판정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP398",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 자동차금융상품",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP399",
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "광주은행 정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP400",
+        "kor_co_nm": "씨티은행",
+        "fin_prdt_nm": "씨티은행 우대정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP401",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 서민정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP402",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 외화예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP403",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 일반적금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP404",
+        "kor_co_nm": "씨티은행",
+        "fin_prdt_nm": "씨티은행 서민정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP405",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 일반적금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP406",
+        "kor_co_nm": "NH농협은행",
+        "fin_prdt_nm": "NH농협은행 일반적금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP407",
+        "kor_co_nm": "씨티은행",
+        "fin_prdt_nm": "씨티은행 특판정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP408",
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "우리은행 자동차금융상품",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP409",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 특판적금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP410",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP411",
+        "kor_co_nm": "하나은행",
+        "fin_prdt_nm": "하나은행 정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP412",
+        "kor_co_nm": "국민은행",
+        "fin_prdt_nm": "국민은행 유니온 정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP413",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 특판정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP414",
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "광주은행 청년정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP415",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 자동차금융상품",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP416",
+        "kor_co_nm": "국민은행",
+        "fin_prdt_nm": "국민은행 정기적금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP417",
+        "kor_co_nm": "NH농협은행",
+        "fin_prdt_nm": "NH농협은행 자동차금융상품",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP418",
+        "kor_co_nm": "전북은행",
+        "fin_prdt_nm": "전북은행 외화예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP419",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 유니온 정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP420",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 유니온 정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP421",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 자동차금융상품",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP422",
+        "kor_co_nm": "씨티은행",
+        "fin_prdt_nm": "씨티은행 청년정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP423",
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "우리은행 주택청약종합저축",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP424",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 주택청약종합저축",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP425",
+        "kor_co_nm": "국민은행",
+        "fin_prdt_nm": "국민은행 일반적금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP426",
+        "kor_co_nm": "전북은행",
+        "fin_prdt_nm": "전북은행 자동차금융상품",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP427",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 특판정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP428",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 유니온 정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP429",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP430",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 특판정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP431",
+        "kor_co_nm": "국민은행",
+        "fin_prdt_nm": "국민은행 서민정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP432",
+        "kor_co_nm": "하나은행",
+        "fin_prdt_nm": "하나은행 정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP433",
+        "kor_co_nm": "씨티은행",
+        "fin_prdt_nm": "씨티은행 주택청약종합저축",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP434",
+        "kor_co_nm": "하나은행",
+        "fin_prdt_nm": "하나은행 자동차금융상품",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP435",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 주택청약종합저축",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP436",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 주택청약종합저축",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP437",
+        "kor_co_nm": "NH농협은행",
+        "fin_prdt_nm": "NH농협은행 특판정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP438",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 청년정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP439",
+        "kor_co_nm": "토스뱅크",
+        "fin_prdt_nm": "토스뱅크 자동차금융상품",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP440",
+        "kor_co_nm": "토스뱅크",
+        "fin_prdt_nm": "토스뱅크 정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP441",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 주택청약종합저축",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP442",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 유니온 정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP443",
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "우리은행 특판정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP444",
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "대구은행 정기적금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP445",
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "우리은행 서민정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP446",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP447",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 주택청약종합저축",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP448",
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "광주은행 자동차금융상품",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP449",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 정기적금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP450",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 유니온 정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP451",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 유니온 정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP452",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 서민정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP453",
+        "kor_co_nm": "씨티은행",
+        "fin_prdt_nm": "씨티은행 특판정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP454",
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "우리은행 주택청약종합저축",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP455",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 특판적금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP456",
+        "kor_co_nm": "전북은행",
+        "fin_prdt_nm": "전북은행 자동차금융상품",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP457",
+        "kor_co_nm": "토스뱅크",
+        "fin_prdt_nm": "토스뱅크 정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP458",
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "우리은행 특판정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP459",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 유니온 정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP460",
+        "kor_co_nm": "국민은행",
+        "fin_prdt_nm": "국민은행 외화예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP461",
+        "kor_co_nm": "국민은행",
+        "fin_prdt_nm": "국민은행 유니온 정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP462",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 자동차금융상품",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP463",
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "우리은행 정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP464",
+        "kor_co_nm": "하나은행",
+        "fin_prdt_nm": "하나은행 주택청약종합저축",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP465",
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "우리은행 외화예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP466",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 자동차금융상품",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP467",
+        "kor_co_nm": "국민은행",
+        "fin_prdt_nm": "국민은행 청년정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP468",
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "우리은행 주택청약종합저축",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP469",
+        "kor_co_nm": "토스뱅크",
+        "fin_prdt_nm": "토스뱅크 정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP470",
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "대구은행 외화예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP471",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 유니온 정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP472",
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "우리은행 특판정기예금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP473",
+        "kor_co_nm": "토스뱅크",
+        "fin_prdt_nm": "토스뱅크 유니온 정기예금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP474",
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "광주은행 자동차금융상품",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP475",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 외화예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP476",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 자동차금융상품",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP477",
+        "kor_co_nm": "전북은행",
+        "fin_prdt_nm": "전북은행 정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP478",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 정기적금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP479",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 외화예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP480",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 특판적금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP481",
+        "kor_co_nm": "전북은행",
+        "fin_prdt_nm": "전북은행 주택청약종합저축",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP482",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 서민정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP483",
+        "kor_co_nm": "NH농협은행",
+        "fin_prdt_nm": "NH농협은행 주택청약종합저축",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP484",
+        "kor_co_nm": "제주은행",
+        "fin_prdt_nm": "제주은행 외화예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP485",
+        "kor_co_nm": "토스뱅크",
+        "fin_prdt_nm": "토스뱅크 정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP486",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 특판적금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP487",
+        "kor_co_nm": "우리은행",
+        "fin_prdt_nm": "우리은행 주택청약종합저축",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP488",
+        "kor_co_nm": "카카오뱅크",
+        "fin_prdt_nm": "카카오뱅크 정기예금",
+        "etc_note": "신규 가입 고객을 위한 특별 이벤트가 있습니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP489",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 청년정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "온라인",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP490",
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "광주은행 일반적금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP491",
+        "kor_co_nm": "기업은행",
+        "fin_prdt_nm": "기업은행 유니온 정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP492",
+        "kor_co_nm": "전북은행",
+        "fin_prdt_nm": "전북은행 특판적금",
+        "etc_note": "자동이체로 간편하게 관리할 수 있는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP493",
+        "kor_co_nm": "하나은행",
+        "fin_prdt_nm": "하나은행 정기적금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP494",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 1,
+        "join_member": "누구나 가입 가능",
+        "join_way": "방문",
+        "spcl_cnd": "우대금리 조건 만족 시"
+    },
+    {
+        "fin_prdt_cd": "DP495",
+        "kor_co_nm": "부산은행",
+        "fin_prdt_nm": "부산은행 정기예금",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP496",
+        "kor_co_nm": "신한은행",
+        "fin_prdt_nm": "신한은행 특판적금",
+        "etc_note": "안정적인 금리를 제공하는 정기예금입니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP497",
+        "kor_co_nm": "스탠다드차타드은행",
+        "fin_prdt_nm": "스탠다드차타드은행 외화예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP498",
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "광주은행 주택청약종합저축",
+        "etc_note": "높은 금리와 안전성을 자랑하는 상품입니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP499",
+        "kor_co_nm": "광주은행",
+        "fin_prdt_nm": "광주은행 유니온 정기예금",
+        "etc_note": "특별한 조건을 만족할 경우 우대금리를 제공합니다.",
+        "join_deny": 2,
+        "join_member": "서민층 전용",
+        "join_way": "온라인",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    },
+    {
+        "fin_prdt_cd": "DP500",
+        "kor_co_nm": "대구은행",
+        "fin_prdt_nm": "대구은행 서민정기예금",
+        "etc_note": "장기 가입 시 금리 우대를 제공합니다.",
+        "join_deny": 3,
+        "join_member": "서민층 전용",
+        "join_way": "온라인 및 방문",
+        "spcl_cnd": "가입 6개월 이상 유지 시"
+    }
+]
