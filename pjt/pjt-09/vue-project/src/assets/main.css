@@ -1,0 +1,28 @@
+nav a {
+  font-weight: bold;
+  color: black;
+}
+
+nav a.router-link-exact-active {
+  color: #42b983;
+}
+
+.product-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.product-card {
+  border: 1px solid black;
+  width: 200px;
+  padding: 15px;
+}
+
+.product-image {
+  width: 100%;
+}
+
+.product-detail {
+  text-align: center;
+}

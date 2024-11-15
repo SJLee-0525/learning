@@ -1,0 +1,27 @@
+* {
+    font-family: "Poor Story", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  
+
+.nav_div {
+    background-color: rgb(7, 7, 73);
+    color: white;
+}
+
+.nav_div > a {
+    color: rgb(205, 205, 205);
+    text-decoration: none;
+}
+
+.nav_div > a.router-link-exact-active {
+    color: white;
+    font-weight: bold;
+}
+
+.nav_div > h4 {
+    margin: 0;
+}
+
